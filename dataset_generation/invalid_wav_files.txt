@@ -1,0 +1,42 @@
+List of invalid WAV files:
+engine_data/engine_data_eval/Engine/oPevraef4gI_52.0-62.0.wav: Empty
+engine_data/engine_data_eval/Engine/ZZ5IinzbauY_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/pp6i-ckuT8I_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/1ISlTAGBMhs_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_eval/Engine/xXGIKM4daMU_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/oswEaAsFXDM_170.0-180.0.wav: Empty
+engine_data/engine_data_eval/Engine/Z5X0bIh2Up8_160.0-170.0.wav: Empty
+engine_data/engine_data_eval/Engine/6kuESYFcEqw_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/0PQYNtIBVf4_70.0-80.0.wav: Empty
+engine_data/engine_data_eval/Engine/teoER4j9H14_290.0-300.0.wav: Empty
+engine_data/engine_data_eval/Engine/jvbBphtBEmk_230.0-240.0.wav: Empty
+engine_data/engine_data_eval/Engine/rxhnnJ_hJyk_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/xerx967ziHA_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/A7Mfor8ADM0_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/p70IcMwsW9M_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/5QpSgohMobQ_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/oQELTwI6Qk0_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_eval/Engine/o_kiCratdFg_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_eval/Engine/G8F5LQn-4jQ_370.0-380.0.wav: Empty
+engine_data/engine_data_eval/Engine/6-MkiieY2M0_110.0-120.0.wav: Empty
+engine_data/engine_data_eval/Engine/a46fFNSxAXU_60.0-70.0.wav: Empty
+engine_data/engine_data_eval/Engine/0fiuMvWi3yM_20.0-30.0.wav: Empty
+engine_data/engine_data_eval/Engine/JoRPc56emmo_150.0-160.0.wav: Empty
+engine_data/engine_data_eval/Engine/T6oYCFRafPs_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/gaFQgJLQHtU_90.0-100.0.wav: Empty
+engine_data/engine_data_eval/Engine/XAcb1Ml9yF0_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_eval/Engine/mfGkNoog9kg_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/IphL7mUqZ6A_400.0-410.0.wav: Wrong duration: 9.48s
+engine_data/engine_data_eval/Engine/_oqjmbfLg0o_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/jsQTl_gJOcg_100.0-110.0.wav: Empty
+engine_data/engine_data_eval/Engine/6U942AYlcXA_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/wjmMSonpdT0_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/_0EhFQHT_OI_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/8CqqK9CzuXM_90.0-100.0.wav: Empty
+engine_data/engine_data_eval/Engine/qAQuljp-atA_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/7NH1WJlSiYI_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/z7HamK0zAcM_21.0-31.0.wav: Empty
+engine_data/engine_data_eval/Engine/lp66EaEOOoU_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/xMClk12ouB8_30.0-40.0.wav: Empty
+engine_data/engine_data_eval/Engine/huxTN0MnPkQ_60.0-70.0.wav: Empty
+engine_data/engine_data_eval/Engine/99iIggWrfNM_30.0-40.0.wav: Empty

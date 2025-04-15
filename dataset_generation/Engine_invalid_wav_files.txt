@@ -1,0 +1,275 @@
+List of invalid WAV files:
+engine_data/engine_data_balanced_train/Engine/9-ymRm0OHgY_580.0-590.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/11Pn3yJifSQ_4.0-14.0.wav: Wrong duration: 5.08s
+engine_data/engine_data_balanced_train/Engine/-jBWkHhQNew_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/LkWnbS0Qfrg_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/02tl_ek8f9I_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/cMFacOIgiRU_60.0-70.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/65bl67oNEy0_20.0-30.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/pUPvir8l8HA_20.0-30.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/57Ijq7fWehY_22.0-32.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/aOVPHKqKjyQ_90.0-100.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/6Xp4hkZctIw_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/BeILNH0jSVg_90.0-100.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/BZTSmF9zt_Q_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/jtUql1Hgwdw_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/5-wgIXNY-bs_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/V5-Mni4s1vI_90.0-100.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/pQfeR7F7Rg0_210.0-220.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/qCKh62UaMMs_100.0-110.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/ZakhvbPVWIs_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_balanced_train/Engine/uHQkd02XSL0_20.0-30.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/iLUd4l1JFDI_50.0-60.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/bT-CEaOEGdI_140.0-150.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/u0a1TVPJiro_60.0-70.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/-pBquWuzRwE_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/adEy5j4XiJk_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/UMs2uABOoEo_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_balanced_train/Engine/5perV0v6lkk_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/8WfOH_ej_RU_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/_-lXVZ9QpO8_310.0-320.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/kf-6vmcI3m0_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/MH9Oj_g6xYU_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/B9n4a5ciI48_16.0-26.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/yq84OepE8uw_50.0-60.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/GruuEdpYo8A_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/Wy49nszOnxo_210.0-220.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/6bMJVOjgEc0_250.0-260.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/SHGjVOTXlNc_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/UhANSJnLXNs_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/51Wq8OYk5sU_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/vs1-wt97bGc_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_balanced_train/Engine/kCyFDsP8DC4_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_balanced_train/Engine/5gO1h5yQUpQ_30.0-40.0.wav: Empty
+engine_data/engine_data_balanced_train/Engine/2Cj6N6XaTIA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-e5iHkhPh58_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-RZf27HVf4Q_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-D3DxR_cQtQ_100.0-110.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-YNzGGdFf0s_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-TGBa3yq9m4_1.0-11.0.wav: Wrong duration: 8.13s
+engine_data/engine_data_unbalanced_train/Engine/-Aumnnovo2s_18.0-28.0.wav: Wrong duration: 8.98s
+engine_data/engine_data_unbalanced_train/Engine/-PEML9BlZCA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ZHfICVRLLM_11.0-21.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-MZGb2-2DoA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-4SrR_lfLZ8_4.0-14.0.wav: Wrong duration: 5.50s
+engine_data/engine_data_unbalanced_train/Engine/-gNXQh2uTpI_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-12u6M_R7t4_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-e4ng3sSnbY_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Xw6zT-Mp4o_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-HkBfmaHlbA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-BcQIqmaULo_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-2vScbsCNYA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-S4G9NkbJdg_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Ja4Ub7B6SE_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-IJy5rdamhY_28.0-38.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-PEeg1l-MpU_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-M5n8vh6aIc_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-HNUU7MtNsI_24.0-34.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-gT--kmfcqg_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-R-MAwGoSXU_0.0-9.0.wav: Wrong duration: 8.17s
+engine_data/engine_data_unbalanced_train/Engine/-_pLgqO2m7s_40.0-50.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-KU0rKvbJsY_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-TkfLeQe_g8_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-CvAmfsTtew_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-OXImKKlc9s_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Kp9V4vJPHw_14.0-24.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-gAYyzIl2-w_40.0-50.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-X5WHgfHE6c_17.0-27.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-UcTQgyfxBQ_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-QefxfwV8Mo_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-XWE0n4zGbU_0.0-9.0.wav: Wrong duration: 9.00s
+engine_data/engine_data_unbalanced_train/Engine/-4jzVhwjXVc_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ZvU5sAR0FY_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ebzkDb6UsI_21.0-31.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-InkGSmYw_I_30.0-40.0.wav: Wrong duration: 9.13s
+engine_data/engine_data_unbalanced_train/Engine/-h4zk-dSa-k_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-bVAV1p3gzQ_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-JhxIN8ml-I_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-2GC25ao1Og_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-hF_qKx7uXw_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-4-Ul3BRc14_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-QLKHLiP6N0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-F7e-VordxY_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-aYOvtB413Q_16.0-26.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-4tjMLqfFb0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-RAOZz-Tyt8_11.0-21.0.wav: Wrong duration: 8.98s
+engine_data/engine_data_unbalanced_train/Engine/-L9l-tUiXuU_12.0-22.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-DyPOJ6PQVg_17.0-27.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-TakTcJ58fQ_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-LFldjDb0P4_90.0-100.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-NuC1yIGYWA_16.0-26.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Ia8Lhbgioc_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Ap8DKaFDK4_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-26ZR9AGm7k_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ebd2rq7snM_5.0-15.0.wav: Wrong duration: 9.29s
+engine_data/engine_data_unbalanced_train/Engine/-3_Z64k3tXE_19.0-29.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-f2GQ8uD7JU_22.0-32.0.wav: Wrong duration: 9.48s
+engine_data/engine_data_unbalanced_train/Engine/-MHsIeyi5fY_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-bjMrcn7rcA_27.0-37.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-QisVjhAxZg_30.0-40.0.wav: Wrong duration: 9.46s
+engine_data/engine_data_unbalanced_train/Engine/-T6HGBLb1xA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-DeCpsT5Q7g_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Ze8cOrFcv0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Ep82UWVIbI_10.0-20.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Bzkbfg8E5g_5.0-15.0.wav: Wrong duration: 4.73s
+engine_data/engine_data_unbalanced_train/Engine/-QB2DumRdbA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-IAow_E7txY_60.0-70.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-WEdNRD4CKg_1.0-11.0.wav: Wrong duration: 8.85s
+engine_data/engine_data_unbalanced_train/Engine/-LRQv3V-J5I_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-7jqBdp2pFs_21.0-31.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-EfKto2u_X4_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-FmniYuIbMc_12.0-22.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-6tNjMOSf4M_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-4qzG7yZBv4_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-J2QlBFA5fk_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Nere88SS1Q_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-QN2auumfOI_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-S-5z2vYtxw_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-T8UyKm0mSY_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-7NYDNeHiM0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-eJY3q8mXvM_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Wb5TDuUdB4_50.0-60.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-eVqe5TEQd0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ZDcRG-vKsg_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-D4pDm_pwkA_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-b05ZnSJ6x4_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-_OPiq-Tc9Q_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-9GFFnns20I_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-a3rbKnLpiw_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-51k6F_4rls_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-gmsG11RmJM_27.0-37.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-06SaXocpZg_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-R6Xf0NTok8_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-7mKTqOQB_E_11.0-21.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-AV028hx__I_18.0-28.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-TyKTSA3qkE_15.0-25.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-AklPWCZp3g_23.0-33.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-2McDjUrwKQ_2.0-12.0.wav: Wrong duration: 7.59s
+engine_data/engine_data_unbalanced_train/Engine/-7VJJ6kLWfE_21.0-31.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-KoqUX84M5U_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-57qvJzYipc_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-5qL0txemrw_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-TitzU040-g_17.0-27.0.wav: Wrong duration: 9.29s
+engine_data/engine_data_unbalanced_train/Engine/-569X-d9l_s_50.0-60.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/--uhc3sHpTM_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-fEPOXZM2f8_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-668dhzzDQE_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-VRO-MPvM_g_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-g1fcUZeFds_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ck96OS3Umo_12.0-22.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-OpPtOIvBts_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-RK299NsnJA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Kt0F1UuBdc_18.0-28.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-YTj1ltM5ls_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-MZxPlfxnt0_3.0-13.0.wav: Wrong duration: 6.33s
+engine_data/engine_data_unbalanced_train/Engine/-VnAaEi_BRA_19.0-29.0.wav: Wrong duration: 9.05s
+engine_data/engine_data_unbalanced_train/Engine/-J0F29UCZiA_70.0-80.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-M_VZqkHXWc_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-UKl9H9p2lI_70.0-80.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-DSdFP7jc34_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-7EwLTKmrRI_18.0-28.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-WLRjXKpmpg_40.0-50.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-9C5ok-bafU_21.0-31.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-IRKMnp4zVk_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-2ksTQGTlLA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/--EG-JqO4S0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-cL8__7nd84_17.0-27.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-GNrpVoCGEY_100.0-110.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-6cuAzZglwU_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-GCLlYEObNw_14.0-24.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-3FEUzOy2rk_18.0-28.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-S_La1nsoP0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-HiAU6Psn8A_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-CepfaU3-ZY_13.0-23.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-OcrER5-y5E_4.0-14.0.wav: Wrong duration: 5.98s
+engine_data/engine_data_unbalanced_train/Engine/-bAQa3nA2A4_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-NbNXueM9ck_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-_NR4B_he4g_27.0-37.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-OXCCrp2Dm8_14.0-24.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-G3JJn9fYlQ_29.0-39.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-1bchAh0bCk_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-fuiAT_IIsc_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-0HsrVfb5vc_20.0-30.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Krl8LvfKJA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-cbhaSYy_mU_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-OCBrzBkzs4_20.0-30.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-5upZpZmlr0_19.0-29.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-f_sBW1HLyM_15.0-25.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-T7yOw_74F0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/--330hg-Ocw_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-XpwqvzBgT8_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-V0hrg-g84A_21.0-31.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-CGcJtAS4lk_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-5uYuIZ5xFM_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-QJVaVlh_v0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-8eLnOiTevU_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-JIR1FEWa6w_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/--kcclzNEZQ_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-SlL0NZh51w_20.0-30.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ZZiSAtiT40_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-P9VLMyRNn4_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-b9yrmlEaDQ_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-eAkqtA2Kf8_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-V3Dbw9b-SI_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-fnYaiychgw_0.0-8.0.wav: Wrong duration: 7.59s
+engine_data/engine_data_unbalanced_train/Engine/-SamxF9DEf0_6.0-16.0.wav: Wrong duration: 3.57s
+engine_data/engine_data_unbalanced_train/Engine/-JVZ8tBis6I_7.0-17.0.wav: Wrong duration: 2.82s
+engine_data/engine_data_unbalanced_train/Engine/-GUxKaSGwHc_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-LtKxs2D50M_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-MpbWQb66_A_23.0-33.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-S9B2PLqEmM_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-WRmHmpdUsw_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-IKAEFwWwY8_2.0-12.0.wav: Wrong duration: 7.68s
+engine_data/engine_data_unbalanced_train/Engine/-HzNR5GkI8c_17.0-27.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-DIgGhJO8Jc_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-HmYuZCgM2s_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Va9NGHQzcE_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-DFmWLDkxQg_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-bywl42hfCE_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-LeLfoA9dT4_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-PM02nhuS04_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-3uQEoPHwq0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-JkGoZTnfNo_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-3d2F1GLG3w_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-a11We745Kc_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-YrGoLVy-lE_120.0-130.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-JauqJnOVmI_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-YtjA3_xSXU_18.0-28.0.wav: Wrong duration: 9.02s
+engine_data/engine_data_unbalanced_train/Engine/-e5_Sb0Eu2A_23.0-33.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-5XCVpv6FAc_14.0-24.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-gqQPEbNRwE_80.0-90.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-W_Vd03omGw_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-RRPcy9DzGk_12.0-22.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-JHYwAeawEE_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-BhX_7Uwh44_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-XQpiO0WKXI_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-QcaB3ymFRk_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-9eCy5nnJWU_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-D9DdrYwk7U_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-B9XpiViAv0_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ZdA6IZoXiM_13.0-23.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-bxEduFixK8_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-L-Q4ufdC2o_13.0-23.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-IKMo9-20Zc_10.0-20.0.wav: Wrong duration: 0.01s
+engine_data/engine_data_unbalanced_train/Engine/-8A29IUVjNw_11.0-21.0.wav: Wrong duration: 9.38s
+engine_data/engine_data_unbalanced_train/Engine/-Q3sFdmOzdQ_0.0-10.0.wav: Wrong duration: 9.06s
+engine_data/engine_data_unbalanced_train/Engine/-YL0d2yHPus_9.0-19.0.wav: Wrong duration: 9.08s
+engine_data/engine_data_unbalanced_train/Engine/-5GhyWiIDEE_14.0-24.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-F4SwZPqw4w_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-YUpCgXFZEA_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-bsBpAkfb6o_4.0-14.0.wav: Wrong duration: 5.08s
+engine_data/engine_data_unbalanced_train/Engine/-IlpZJZyhTQ_15.0-25.0.wav: Wrong duration: 9.11s
+engine_data/engine_data_unbalanced_train/Engine/-L4aZhZOL-w_0.0-10.0.wav: Wrong duration: 9.10s
+engine_data/engine_data_unbalanced_train/Engine/--Dxk606LRQ_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-HJnF7_5tqY_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-Bm6XfgHiLk_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-9MvAjVXb7s_20.0-30.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-BBx3V4rWa8_11.0-21.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-XqNcfvz39E_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-h4kV9q6ktQ_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/--jGnLqFsQ4_24.0-34.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-f6KB4MP678_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-NlcP4DkAfk_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-F6whI8yGqk_30.0-40.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-ADsnhHJIXg_21.0-31.0.wav: Empty
+engine_data/engine_data_unbalanced_train/Engine/-HwIzpjxyy8_30.0-40.0.wav: Empty
